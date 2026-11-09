@@ -30,6 +30,10 @@ achievements from every platform and account you play on.
 
 **Jailbroken consoles:** PS5 (payload) · PS3 (HEN, CFW) · Switch (Atmosphere)
 
+<p align="center">
+  <a href="https://gowithme.club"><img src="assets/product.png" alt="A gowithme.club profile: total playtime, games and trophies across PSN, Steam, Switch and Xbox, top games, this week's play sessions and the weekly ranking posted by the Telegram bot" width="100%"></a>
+</p>
+
 ## Get started
 
 1. Sign in at [gowithme.club](https://gowithme.club) with Google or Telegram.
