@@ -1,44 +1,46 @@
 <p align="center">
-  <a href="https://gowithme.club"><img src="assets/banner.png" alt="gowithme.club, a cross-platform game tracker: modded consoles and PSN, Steam, Xbox and Switch accounts in one profile" width="100%"></a>
+  <a href="https://gowithme.club"><img src="assets/banner.png" alt="gowithme.club, a cross-platform game tracker: PSN, Steam, Xbox, Switch and jailbroken consoles in one profile" width="100%"></a>
 </p>
 
-<p align="center">
-  <a href="https://gowithme.club"><b>gowithme.club</b></a> ·
-  <a href="https://gowithme.club/dashboard">Live activity</a> ·
-  <a href="https://t.me/gowithme_club_support">Support</a>
-</p>
+**[gowithme.club](https://gowithme.club) is a free cross-platform game tracker.**
+One profile collects your games, playtime, play sessions, trophies and
+achievements from every platform and account you play on.
 
-[gowithme.club](https://gowithme.club) is a free cross-platform game tracker:
-playtime, play sessions, trophies and achievements from PlayStation Network,
-Steam, Xbox, Nintendo Switch, Discord and modded consoles in one profile.
-This organization hosts the open-source trackers for modded consoles.
+## What you get
 
-## Console trackers
+- **One profile for every platform.** PlayStation, Steam, Xbox, Nintendo Switch,
+  Discord and jailbroken consoles side by side.
+- **Several accounts merged.** A second Steam account or PSN accounts from
+  different regions count as one player; the same game from different accounts
+  is one game with its hours added up.
+- **Real play sessions.** Not just lifetime totals: “played on Tuesday from
+  21:40 to 23:15”, recorded while you play.
+- **Trophies and achievements** from PSN, Steam and Xbox on one timeline.
+- **Playing now.** Friends see what you are playing at the moment.
+- **Public pages.** Every player and every game has a page: total hours, who
+  plays it, recent sessions and trophies.
+- **Communities.** Groups of friends get rankings, shared activity and a Telegram
+  bot that posts reports to their chat.
+- **Reports.** Weekly and monthly summaries in Telegram or by email.
+- **Release calendar** built from the players' wishlists.
 
-| Console | Repository | Tracks |
-| --- | --- | --- |
-| PS5, jailbroken | [ps5-playtime-tracker](https://github.com/gowithme-club/ps5-playtime-tracker) | sessions, hours, trophies for PS5 and PS4 games |
-| PS3 on HEN or CFW | [ps3-playtime-tracker](https://github.com/gowithme-club/ps3-playtime-tracker) | sessions, hours, trophies, without PSN |
-| Switch with Atmosphere | [switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | sessions and hours, without Nintendo Switch Online |
+## Platforms
 
-Each tracker runs on the console, is MIT-licensed and links to your profile from
-the settings on gowithme.club.
+**Accounts:** PlayStation Network (PS4, PS5) · Steam · Xbox · Nintendo Switch 1 & 2 · Discord
 
-## Connected accounts
+**Jailbroken consoles:** PS5 (payload) · PS3 (HEN, CFW) · Switch (Atmosphere)
 
-- **PlayStation Network:** PS4 and PS5 trophies, playtime and sessions.
-- **Steam:** hours and achievements.
-- **Xbox:** achievements.
-- **Nintendo Switch:** playtime and online status by Friend Code.
-- **Discord:** PC games from Epic, GOG, itch and emulators via Rich Presence.
+## Get started
 
-Several accounts of one platform, such as a second PSN region, merge into the
-same profile. No platform passwords are asked for.
+1. Sign in at [gowithme.club](https://gowithme.club) with Google or Telegram.
+2. Connect your accounts in the settings; each one has a step-by-step guide.
+3. Your profile fills in by itself.
 
----
+## Open-source console trackers
 
-**По-русски.** [gowithme.club](https://gowithme.club) — бесплатный
-кросс-платформенный трекер игровой статистики: время, сессии, трофеи и
-достижения из PSN, Steam, Xbox, Nintendo Switch и Discord в одном профиле.
-Здесь — открытые трекеры для прошитых консолей: PS5 с джейлбрейком, PS3 с HEN
-или CFW и Switch с Atmosphere.
+For a jailbroken PS5, a PS3 on HEN or CFW and a Switch with Atmosphere the
+tracker runs on the console itself. The code is open under MIT:
+[ps5-playtime-tracker](https://github.com/gowithme-club/ps5-playtime-tracker) ·
+[ps3-playtime-tracker](https://github.com/gowithme-club/ps3-playtime-tracker) ·
+[switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker).
+
